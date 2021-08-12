@@ -97,3 +97,5 @@ This contains code to test the relative computational performance of each test a
 This contains code to replicate the examples in the accompanying paper.
 ##### Rplots.R
 This contains code to replicate the plots provided in the accompanying paper.
+
+The software is also archived at [![DOI](https://zenodo.org/badge/233837067.svg)](https://zenodo.org/badge/latestdoi/233837067)
